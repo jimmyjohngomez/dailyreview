@@ -1,0 +1,20 @@
+h1,h2{
+    background-color:gray;
+    padding:20px 20px 20px 10px;
+    color:white;
+}
+p{
+    background-color:lightgray;
+    padding:20px 20px 20px 10px;
+}
+body{
+    width:800px;
+}
+h3{
+    color:gray;
+}
+#nav a{
+   text-decoration:none; 
+   color:gray;
+   padding-right:20px;
+}
